@@ -36,7 +36,6 @@ public class CurrencyConverter {
 	}
 
 	public void menu() {
-
 		System.out.println("Select the Currency you wish to convert from : ");
 		System.out.println("1. Euro");
 		System.out.println("2. USD");
